@@ -13,12 +13,14 @@
 <h2>👨‍💻 DevOps Projects:</h2>
 
 - <b>Docker</b>
-  - [Hosting static HTML page inside Docker container using NGINX (LIVE)](https://github.com/sebrolek)
+  - [Static HTML page inside Docker container using NGINX (LIVE)](https://github.com/sebrolek/docker_nginx_static_page)
+
+<!---
 - <b>Second</b>
   - [second](https://github.com/sebrolek)
 - <b>Python</b>
   - [py project](https://github.com/sebrolek)
-
+--->
 <h2> 📃 Certifications:</h2>
 
 - <b> CCNA - Cisco Certified Network Associate</b>
